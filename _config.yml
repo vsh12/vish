@@ -11,6 +11,7 @@ site-twitter: "" #if your site has a twitter account, enter it here
 # Author Settings
 author: Vishnu Prasath # add your name
 author-img: IMG_20170613_125914.jpg # add your photo
+favicon: favicon.ico
 about-author: Myself a Mariner focusing you to attact towards me Fond of LuV   # add description
 twitter: # add your Twitter handle
 facebook: vizjack # add your Facebook handle
