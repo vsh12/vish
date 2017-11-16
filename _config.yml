@@ -5,13 +5,12 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vsh12.github.io/vish/" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: favicon.ico #
+link rel= "shortcut icon" type="image/ico" href="/favicon.ico"
 site-twitter: "" #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Vishnu Prasath # add your name
 author-img: IMG_20170613_125914.jpg # add your photo
-favicon: favicon.ico
 about-author: Myself a Mariner focusing you to attact towards me Fond of LuV   # add description
 twitter: # add your Twitter handle
 facebook: vizjack # add your Facebook handle
