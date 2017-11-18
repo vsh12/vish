@@ -16,7 +16,7 @@ After a long-towering vacation, time has come for me and our clan to fix the bas
      
      
      
-  *On 21st september 2014 we decided do move out of city to visit pune. That was my first visit to Pune, once the train stopped at the station we were eager to drift around the city and as our seniors adviced we decided to explore Phoenix Market City wich was a 20 minutes travel from the station.
+On 21st september 2014 we decided do move out of city to visit pune. That was my first visit to Pune, once the train stopped at the station we were eager to drift around the city and as our seniors adviced we decided to explore Phoenix Market City wich was a 20 minutes travel from the station.
 
 >Phoenix Market City is a shopping mall developed by Phoenix Mills Limited located in Pune, Maharashtra. It was opened in January 2013 and is the largest mall in India, with the area of 3.4 million square feet.
 
@@ -24,10 +24,9 @@ After a long-towering vacation, time has come for me and our clan to fix the bas
 ![phoenixmall]({{site.baseurl}}/assets/img/phoenixin.jpg)
 
      
-```javascript
-Phoenix Market City, Pune. 
-```   
-   The day was unforgetable as we visited Blu-O, a pub for the first time and surprisingy we had a free entry.Though the day was splendid,we departed reluctantly all the way to SIMS as we are not allowed inside the campus after 1830 Hrs.
+>Phoenix Market City, Pune. 
+   
+The day was unforgetable as we visited Blu-O, a pub for the first time and surprisingy we had a free entry.Though the day was splendid,we departed reluctantly all the way to SIMS as we are not allowed inside the campus after 1830 Hrs.
      
     
 
