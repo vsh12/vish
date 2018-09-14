@@ -5,7 +5,11 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vsh12.github.io/vish/" # the base hostname & protocol for your site, e.g. http://example.com
+<<<<<<< HEAD
 favicon: assets/img/favicon.png
+=======
+favicon: /icons8-online-support-40.png
+>>>>>>> 5327c3c50d10a3a93058fba41c6d80c44c310ebb
 site-twitter: "" #if your site has a twitter account, enter it here
 
 # Author Settings
